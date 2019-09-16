@@ -38,6 +38,7 @@
 		CB7A7135232F355C0018BD07 = {
 			isa = PBXGroup;
 			children = (
+				CB7A7153232F35C90018BD07 /* Classes */,
 				CB7A7140232F355C0018BD07 /* LubanExtensions */,
 				CB7A713F232F355C0018BD07 /* Products */,
 			);
@@ -62,6 +63,13 @@
 				CB7A714D232F355E0018BD07 /* Info.plist */,
 			);
 			path = LubanExtensions;
+			sourceTree = "<group>";
+		};
+		CB7A7153232F35C90018BD07 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
